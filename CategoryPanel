@@ -1,0 +1,8 @@
+// CategoryPanel.tsx
+import React from 'react';
+
+const CategoryPanel: React.FC = () => {
+  // Content of the CategoryPanel component
+};
+
+export default CategoryPanel;
